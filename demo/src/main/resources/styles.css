@@ -1,0 +1,9 @@
+.rectangle {
+    -fx-fill: lightgray;
+    -fx-stroke: black;
+}
+
+.label {
+    -fx-font-size: 50px;
+    -fx-font-weight: bold;
+}
